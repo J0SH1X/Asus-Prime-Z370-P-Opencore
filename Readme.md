@@ -11,3 +11,6 @@ SMCSuperIO
 
 Minimal Opencore Configuration for Asus Prime Z370-P with most stuff working
 Support Mac boot chime :D
+
+
+For Bootpicker hold ALT on boot
